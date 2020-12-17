@@ -1,0 +1,7 @@
+main{
+    min-height:630px;
+    width:100%;
+    background-image: url("../assets/bg.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
